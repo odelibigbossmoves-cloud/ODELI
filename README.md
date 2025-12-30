@@ -1,5 +1,14 @@
 <html lang="en">
   <head>
+    <header>
+  <h1>Xodeli</h1>
+  <nav>
+    <a href="#music">Music</a>
+    <a href="#albums">Albums</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
 <meta charset="UTF-8">
 <title>ODELI | Official Music Page</title>
 <h1>ODELI</h1>
@@ -11,6 +20,8 @@ body {
   font-family: Arial, sans-serif;
   background: #0b0b0b;
   color: white;
+  background-color: #111;
+  color: #f0f0f0;
 }
 
 header {
