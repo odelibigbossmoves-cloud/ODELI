@@ -1,13 +1,5 @@
 <html lang="en">
-  <header>
-  <h1>Xodeli</h1>
-  <nav>
-    <a href="#music">Music</a>
-    <a href="#albums">Albums</a>
-    <a href="#about">About</a>
-    <a href="#contact">Contact</a>
-  </nav>
-</header>
+  <head>
 <meta charset="UTF-8">
 <title>ODELI | Official Music Page</title>
 <h1>ODELI</h1>
